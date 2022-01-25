@@ -1,3 +1,4 @@
+# 1번 문제
 class Score:
     def __init__(self, mid, final):
         self.__mid = mid

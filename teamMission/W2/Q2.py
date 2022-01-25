@@ -1,3 +1,4 @@
+# 2번 문제
 class Car():
     def __init__(self, fuel, wheels):
         self.fuel = fuel
